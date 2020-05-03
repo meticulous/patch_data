@@ -1,0 +1,338 @@
+[
+  {
+    "abbreviation": "AQU",
+    "name": "Aqua"
+  },
+  {
+    "abbreviation": "BBL",
+    "name": "bright blue"
+  },
+  {
+    "abbreviation": "BGR",
+    "name": "bright green, kelly"
+  },
+  {
+    "abbreviation": "BGY",
+    "name": "blue gray"
+  },
+  {
+    "abbreviation": "BLK",
+    "name": "black"
+  },
+  {
+    "abbreviation": "BLM",
+    "name": "black mylar"
+  },
+  {
+    "abbreviation": "BLU",
+    "name": "blue, cobalt, royal"
+  },
+  {
+    "abbreviation": "BMY",
+    "name": "blue mylar"
+  },
+  {
+    "abbreviation": "BPR",
+    "name": "bright purple"
+  },
+  {
+    "abbreviation": "BRN",
+    "name": "brown, chocolate"
+  },
+  {
+    "abbreviation": "BRO",
+    "name": "Bronze"
+  },
+  {
+    "abbreviation": "BRZ",
+    "name": "bronze mylar"
+  },
+  {
+    "abbreviation": "BTQ",
+    "name": "bright turquoise"
+  },
+  {
+    "abbreviation": "CMY",
+    "name": "copper mylar"
+  },
+  {
+    "abbreviation": "COP",
+    "name": "copper"
+  },
+  {
+    "abbreviation": "DBL",
+    "name": "dark blue"
+  },
+  {
+    "abbreviation": "DBR",
+    "name": "dark brown"
+  },
+  {
+    "abbreviation": "DGR",
+    "name": "dark green, explorer"
+  },
+  {
+    "abbreviation": "DGY",
+    "name": "dark grey"
+  },
+  {
+    "abbreviation": "DKH",
+    "name": "dark khaki"
+  },
+  {
+    "abbreviation": "DOL",
+    "name": "dark olive"
+  },
+  {
+    "abbreviation": "DOR",
+    "name": "dark orange"
+  },
+  {
+    "abbreviation": "DPK",
+    "name": "dark pink"
+  },
+  {
+    "abbreviation": "DPR",
+    "name": "dark purple"
+  },
+  {
+    "abbreviation": "DRD",
+    "name": "dark red"
+  },
+  {
+    "abbreviation": "DTQ",
+    "name": "dark turquoise"
+  },
+  {
+    "abbreviation": "DVI",
+    "name": "dark violet"
+  },
+  {
+    "abbreviation": "DYL",
+    "name": "dark yellow, golden"
+  },
+  {
+    "abbreviation": "FGR",
+    "name": "forest green"
+  },
+  {
+    "abbreviation": "GBR",
+    "name": "grey brown"
+  },
+  {
+    "abbreviation": "GLD",
+    "name": "gold"
+  },
+  {
+    "abbreviation": "GMY",
+    "name": "gold mylar"
+  },
+  {
+    "abbreviation": "GRM",
+    "name": "green mylar"
+  },
+  {
+    "abbreviation": "GRN",
+    "name": "green"
+  },
+  {
+    "abbreviation": "GRY",
+    "name": "gray"
+  },
+  {
+    "abbreviation": "KAK",
+    "name": "khaki"
+  },
+  {
+    "abbreviation": "LAV",
+    "name": "lavendar"
+  },
+  {
+    "abbreviation": "LBL",
+    "name": "light blue, sky"
+  },
+  {
+    "abbreviation": "LBM",
+    "name": "Light Blue Mylar"
+  },
+  {
+    "abbreviation": "LBR",
+    "name": "light brown"
+  },
+  {
+    "abbreviation": "LGR",
+    "name": "light green"
+  },
+  {
+    "abbreviation": "LGY",
+    "name": "light gray"
+  },
+  {
+    "abbreviation": "LIM",
+    "name": "lime green"
+  },
+  {
+    "abbreviation": "LOL",
+    "name": "light olive"
+  },
+  {
+    "abbreviation": "LOR",
+    "name": "light orange"
+  },
+  {
+    "abbreviation": "LPK",
+    "name": "light pink"
+  },
+  {
+    "abbreviation": "LPR",
+    "name": "light purple"
+  },
+  {
+    "abbreviation": "LRD",
+    "name": "light red"
+  },
+  {
+    "abbreviation": "LTQ",
+    "name": "light turquoise"
+  },
+  {
+    "abbreviation": "LVI",
+    "name": "light violet, lavender"
+  },
+  {
+    "abbreviation": "LYL",
+    "name": "light yellow, lemon"
+  },
+  {
+    "abbreviation": "MAN",
+    "name": "manilla, buff, cream"
+  },
+  {
+    "abbreviation": "MAR",
+    "name": "maroon"
+  },
+  {
+    "abbreviation": "M/C",
+    "name": "multicolored"
+  },
+  {
+    "abbreviation": "NBL",
+    "name": "navy blue, very dark"
+  },
+  {
+    "abbreviation": "OLV",
+    "name": "olive"
+  },
+  {
+    "abbreviation": "OMY",
+    "name": "Orange Mylar"
+  },
+  {
+    "abbreviation": "ORG",
+    "name": "orange"
+  },
+  {
+    "abbreviation": "PBL",
+    "name": "pale blue, powder"
+  },
+  {
+    "abbreviation": "PCH",
+    "name": "peach, light salmon"
+  },
+  {
+    "abbreviation": "PGR",
+    "name": "pale green, mint"
+  },
+  {
+    "abbreviation": "PGY",
+    "name": "pale gray"
+  },
+  {
+    "abbreviation": "PKM",
+    "name": "Pink Mylar"
+  },
+  {
+    "abbreviation": "PMY",
+    "name": "purple mylar"
+  },
+  {
+    "abbreviation": "PNK",
+    "name": "pink"\
+  },
+  {
+    "abbreviation": "PTQ",
+    "name": "pale turquoise"
+  },
+  {
+    "abbreviation": "PUR",
+    "name": "purple"
+  },
+  {
+    "abbreviation": "PYL",
+    "name": "pale yellow"
+  },
+  {
+    "abbreviation": "RBR",
+    "name": "red brown"
+  },
+  {
+    "abbreviation": "RED",
+    "name": "red"
+  },
+  {
+    "abbreviation": "RMY",
+    "name": "red mylar"
+  },
+  {
+    "abbreviation": "ROR",
+    "name": "red orange"
+  },
+  {
+    "abbreviation": "RWB",
+    "name": "red, white, \u0026 blue"
+  },
+  {
+    "abbreviation": "SAM",
+    "name": "salmon"
+  },
+  {
+    "abbreviation": "SIL",
+    "name": "Silver"
+  },
+  {
+    "abbreviation": "SMY",
+    "name": "silver mylar"
+  },
+  {
+    "abbreviation": "TAN",
+    "name": "light olive brown, sand"
+  },
+  {
+    "abbreviation": "TRQ",
+    "name": "turquoise"
+  },
+  {
+    "abbreviation": "UV",
+    "name": "Ultraviolet/Glow In The Dark"
+  },
+  {
+    "abbreviation": "VIO",
+    "name": "violet"
+  },
+  {
+    "abbreviation": "WHT",
+    "name": "white"
+  },
+  {
+    "abbreviation": "YEL",
+    "name": "yellow"
+  },
+  {
+    "abbreviation": "YGR",
+    "name": "yellow green (limon)"
+  },
+  {
+    "abbreviation": "YOR",
+    "name": "yellow orange"
+  }
+]
